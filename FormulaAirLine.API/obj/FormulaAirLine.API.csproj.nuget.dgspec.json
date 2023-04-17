@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/emorais/MessageBroker/FormulaAirLine.API/FormulaAirLine.API.csproj": {}
+    "/home/emorais/GitHub/messageBroker-rabbitmq/FormulaAirLine.API/FormulaAirLine.API.csproj": {}
   },
   "projects": {
-    "/home/emorais/MessageBroker/FormulaAirLine.API/FormulaAirLine.API.csproj": {
+    "/home/emorais/GitHub/messageBroker-rabbitmq/FormulaAirLine.API/FormulaAirLine.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/emorais/MessageBroker/FormulaAirLine.API/FormulaAirLine.API.csproj",
+        "projectUniqueName": "/home/emorais/GitHub/messageBroker-rabbitmq/FormulaAirLine.API/FormulaAirLine.API.csproj",
         "projectName": "FormulaAirLine.API",
-        "projectPath": "/home/emorais/MessageBroker/FormulaAirLine.API/FormulaAirLine.API.csproj",
+        "projectPath": "/home/emorais/GitHub/messageBroker-rabbitmq/FormulaAirLine.API/FormulaAirLine.API.csproj",
         "packagesPath": "/home/emorais/.nuget/packages/",
-        "outputPath": "/home/emorais/MessageBroker/FormulaAirLine.API/obj/",
+        "outputPath": "/home/emorais/GitHub/messageBroker-rabbitmq/FormulaAirLine.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/emorais/.nuget/NuGet/NuGet.Config"

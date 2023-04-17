@@ -6,27 +6,14 @@ namespace FormulaAirLine.API.Services;
 
 public class MessageProducer : IMessageProducer
 {
+    private const string QUEUE = "bookings";
+
     public void SendingMessage<T>(T message)
     {
         try
         {
-            ConnectionFactory factory = new ConnectionFactory()
-            {
-                HostName = "localhost",
-                UserName = "user",
-                Password = "mypass",
-                VirtualHost = "/"
-            };
-
-            using IConnection connection = factory.CreateConnection();
-            using IModel channel = connection.CreateModel();
-
-            channel.QueueDeclare(queue: "bookings",
-                                durable: true,
-                                exclusive: false,
-                                autoDelete: false,
-                                arguments: null);
-
+            using IModel channel = RabbitMQConfiguration.GetChannel(queue: QUEUE);
+            
             string jsonString = JsonSerializer.Serialize(message);
             byte[] body = Encoding.UTF8.GetBytes(jsonString);
 
@@ -34,7 +21,7 @@ public class MessageProducer : IMessageProducer
             properties.Persistent = true;
 
             channel.BasicPublish(exchange: string.Empty,
-                                routingKey: "bookings",
+                                routingKey: QUEUE,
                                 basicProperties: properties,
                                 body: body);
 

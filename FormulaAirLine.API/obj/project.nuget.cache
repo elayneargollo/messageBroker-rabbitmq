@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S8/4mY6iU8asOhcBeF9RIbuazMrqUeukDpVc7PsR2IlojdRvGkz7tsvQ/DjfvG8pC7tym0QihmHLpCaQRyz2dQ==",
+  "dgSpecHash": "q5E1YYz7DjPSn6ptIkwKVta7Da0gTWqi1mLi0SdcUoyg8El+kEEnc0n0sHao0PaiPQKooBvdngQPO94MNZMCPw==",
   "success": true,
-  "projectFilePath": "/home/emorais/MessageBroker/FormulaAirLine.API/FormulaAirLine.API.csproj",
+  "projectFilePath": "/home/emorais/GitHub/messageBroker-rabbitmq/FormulaAirLine.API/FormulaAirLine.API.csproj",
   "expectedPackageFiles": [
     "/home/emorais/.nuget/packages/microsoft.aspnetcore.openapi/7.0.4/microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
     "/home/emorais/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
