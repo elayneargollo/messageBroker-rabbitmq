@@ -1,0 +1,17 @@
+/home/emorais/MessageBroker/FormulaAirLine.TicketProcessing/bin/Debug/net7.0/FormulaAirLine.TicketProcessing
+/home/emorais/MessageBroker/FormulaAirLine.TicketProcessing/bin/Debug/net7.0/FormulaAirLine.TicketProcessing.deps.json
+/home/emorais/MessageBroker/FormulaAirLine.TicketProcessing/bin/Debug/net7.0/FormulaAirLine.TicketProcessing.runtimeconfig.json
+/home/emorais/MessageBroker/FormulaAirLine.TicketProcessing/bin/Debug/net7.0/FormulaAirLine.TicketProcessing.dll
+/home/emorais/MessageBroker/FormulaAirLine.TicketProcessing/bin/Debug/net7.0/FormulaAirLine.TicketProcessing.pdb
+/home/emorais/MessageBroker/FormulaAirLine.TicketProcessing/bin/Debug/net7.0/RabbitMQ.Client.dll
+/home/emorais/MessageBroker/FormulaAirLine.TicketProcessing/obj/Debug/net7.0/FormulaAirLine.TicketProcessing.csproj.AssemblyReference.cache
+/home/emorais/MessageBroker/FormulaAirLine.TicketProcessing/obj/Debug/net7.0/FormulaAirLine.TicketProcessing.GeneratedMSBuildEditorConfig.editorconfig
+/home/emorais/MessageBroker/FormulaAirLine.TicketProcessing/obj/Debug/net7.0/FormulaAirLine.TicketProcessing.AssemblyInfoInputs.cache
+/home/emorais/MessageBroker/FormulaAirLine.TicketProcessing/obj/Debug/net7.0/FormulaAirLine.TicketProcessing.AssemblyInfo.cs
+/home/emorais/MessageBroker/FormulaAirLine.TicketProcessing/obj/Debug/net7.0/FormulaAirLine.TicketProcessing.csproj.CoreCompileInputs.cache
+/home/emorais/MessageBroker/FormulaAirLine.TicketProcessing/obj/Debug/net7.0/FormulaAirLine.TicketProcessing.csproj.CopyComplete
+/home/emorais/MessageBroker/FormulaAirLine.TicketProcessing/obj/Debug/net7.0/FormulaAirLine.TicketProcessing.dll
+/home/emorais/MessageBroker/FormulaAirLine.TicketProcessing/obj/Debug/net7.0/refint/FormulaAirLine.TicketProcessing.dll
+/home/emorais/MessageBroker/FormulaAirLine.TicketProcessing/obj/Debug/net7.0/FormulaAirLine.TicketProcessing.pdb
+/home/emorais/MessageBroker/FormulaAirLine.TicketProcessing/obj/Debug/net7.0/FormulaAirLine.TicketProcessing.genruntimeconfig.cache
+/home/emorais/MessageBroker/FormulaAirLine.TicketProcessing/obj/Debug/net7.0/ref/FormulaAirLine.TicketProcessing.dll

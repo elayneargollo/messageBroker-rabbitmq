@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/FormulaAirLine.API.props" />
+</Project>
